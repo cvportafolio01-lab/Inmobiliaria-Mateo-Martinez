@@ -12,61 +12,61 @@ const galleryData = [
     // === EXTERIOR (Fachada y jardin) ===
     {
         id: 1,
-        src: "images/exterior-1.jpg",
+        src: "images/exterior-1.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
      {
         id: 2,
-        src: "images/exterior-2.jpeg",
+        src: "images/exterior-2.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
      {
         id: 3,
-        src: "images/exterior-3.jpeg",
+        src: "images/exterior-3.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
      {
         id: 4,
-        src: "images/exterior-4.jpeg",
+        src: "images/exterior-4.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
      {
         id: 5,
-        src: "images/exterior-5.jpeg",
+        src: "images/exterior-5.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
      {
         id: 6,
-        src: "images/exterior-6.jpeg",
+        src: "images/exterior-6.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
      {
         id: 7,
-        src: "images/exterior-7.jpeg",
+        src: "images/exterior-7.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
      {
         id: 8,
-        src: "images/exterior-8.jpeg",
+        src: "images/exterior-8.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
      {
         id: 9,
-        src: "images/exterior-9.jpeg",
+        src: "images/exterior-9.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
      {
         id: 10,
-        src: "images/exterior-10.jpeg",
+        src: "images/exterior-10.webp",
         title: "Fachada Principal",
         category: "exterior"
     },
@@ -119,7 +119,7 @@ const galleryData = [
     // === COCINA ===
     {
         id: 18,
-        src: "images/cocina-1.jpg",
+        src: "images/cocina-1.webp",
         title: "Cocina Integral",
         category: "cocina"
     },
@@ -239,61 +239,61 @@ const galleryData = [
     // === BAÑOS ===
     {
         id: 38,
-        src: "images/baño-1.jpeg",
+        src: "images/baño-1.webp",
         title: "baño",
         category: "baño"
     },
     {
         id: 39,
-        src: "images/baño-2.jpeg",
+        src: "images/baño-2.webp",
         title: "baño",
         category: "baño"
     },
     {
         id: 40,
-        src: "images/baño-3.jpeg",
+        src: "images/baño-3.webp",
         title: "Baño ",
         category: "baño"
     },
     {
         id: 41,
-        src: "images/baño-4.jpeg",
+        src: "images/baño-4.webp",
         title: "baño",
         category: "baño"
     },
     {
         id:  42,
-        src: "images/baño-5.jpeg",
+        src: "images/baño-5.webp",
         title: "baño",
         category: "baño"
     },
     {
         id: 43,
-        src: "images/baño-6.jpeg",
+        src: "images/baño-6.webp",
         title: "baño",
         category: "baño"
     },
     {
         id: 44,
-        src: "images/baño-7.jpeg",
+        src: "images/baño-7.webp",
         title: "baño",
         category: "baño"
     },
     {
         id: 45,
-        src: "images/baño-8.jpeg",
+        src: "images/baño-8.webp",
         title: "baño",
         category: "baño"
     },
     {
         id: 46,
-        src: "images/baño-9.jpeg",
+        src: "images/baño-9.webp",
         title: "baño",
         category: "baño"
     },
     {
         id: 47,
-        src: "images/baño-10.jpeg",
+        src: "images/baño-10.webp",
         title: "baño",
         category: "baño"
     },
