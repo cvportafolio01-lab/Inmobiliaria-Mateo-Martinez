@@ -74,43 +74,43 @@ const galleryData = [
     // === INTERIOR (Sala, Comedor y Escaleras) ===
     {
         id: 11,
-        src: "images/sala-escalera-1.jpg",
+        src: "images/sala-escalera-1.webp",
         title: "Sala con Escalera",
         category: "interior"
     },
     {
         id: 12,
-        src: "images/sala-1.jpg",
+        src: "images/sala-1.webp",
         title: "Sala con Entrada",
         category: "interior"
     },
     {
         id: 13,
-        src: "images/escalera-1.jpg",
+        src: "images/escalera-1.webp",
         title: "Escalera a Planta Alta",
         category: "interior"
     },
     {
         id: 14,
-        src: "images/escalera-2.jpg",
+        src: "images/escalera-2.webp",
         title: "Escalera Vista Inferior",
         category: "interior"
     },
     {
         id: 15,
-        src: "images/distribuidor-1.jpg",
+        src: "images/distribuidor-1.webp",
         title: "Distribuidor Planta Alta",
         category: "interior"
     },
     {
         id: 16,
-        src: "images/pasillo-recamaras-1.jpeg",
+        src: "images/pasillo-recamaras-1.webp",
         title: "Pasillo de Planta Alta",
         category: "interior"
     },
     {
         id: 17,
-        src: "images/pasillo-recamaras.jpeg",
+        src: "images/pasillo-recamaras.webp",
         title: "Pasillo de Recámaras",
         category: "interior"
     },
@@ -125,34 +125,34 @@ const galleryData = [
     },
     {
         id: 19,
-        src: "images/cocina-2.jpg",
+        src: "images/cocina-2.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
     {
         id: 20,
-        src: "images/cocina-3.jpeg",
+        src: "images/cocina-3.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
 
     {
         id: 21,
-        src: "images/cocina-4.jpeg",
+        src: "images/cocina-4.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
 
     {
         id: 22,
-        src: "images/cocina-5.jpeg",
+        src: "images/cocina-5.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
 
     {
         id: 23,
-        src: "images/cocina-6.jpeg",
+        src: "images/cocina-6.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
@@ -161,37 +161,37 @@ const galleryData = [
 
      {
         id: 25,
-        src: "images/cocina-8.jpeg",
+        src: "images/cocina-8.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
      {
         id: 26,
-        src: "images/cocina-9.jpeg",
+        src: "images/cocina-9.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
      {
         id: 27,
-        src: "images/cocina-10.jpeg",
+        src: "images/cocina-10.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
      {
         id: 28,
-        src: "images/cocina-11.jpeg",
+        src: "images/cocina-11.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
      {
         id: 30,
-        src: "images/cocina-12.jpeg",
+        src: "images/cocina-12.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
     {
         id: 31,
-        src: "images/cocina-13.jpeg",
+        src: "images/cocina-13.webp",
         title: "Cocina Vista Completa",
         category: "cocina"
     },
@@ -200,40 +200,40 @@ const galleryData = [
     // === RECAMARAS y baños ===
     {
         id: 32,
-        src: "images/recamara-1.jpg",
-        title: "Recamara con Vista al Patio",
+        src: "images/recamara-1.webp",
+        title: "Recamaras",
         category: "recamaras"
     },
     {
         id: 33,
-        src: "images/recamara-1.jpeg",
-        title: "Recamara con Vista al Patio",
+        src: "images/recamara-1_1.webp",
+        title: "Recamaras",
         category: "recamaras"
     },
     {
         id: 34,
-        src: "images/recamara2.1.jpeg",
-        title: "Recamara con Vista al Patio",
+        src: "images/recamara2.1.webp",
+        title: "Recamaras",
         category: "recamaras"
     },
     {
         id: 35,
-        src: "images/recamara2.2.jpeg",
-        title: "Recamara con Vista al Patio",
+        src: "images/recamara2.2.webp",
+        title: "Recamaras",
         category: "recamaras"
     },
     {
         id: 36,
-        src: "images/recamara2.3.jpeg",
-        title: "Recamara con Vista al Patio",
+        src: "images/recamara2.3.webp",
+        title: "Recamaras",
         category: "recamaras"
     },
  
   
     {
         id: 37,
-        src: "images/recamara-2.7.jpeg",
-        title: "Recamara con Vista al Patio",
+        src: "images/recamara-2.7.webp",
+        title: "Recamaras",
         category: "recamaras"
     },
     // === BAÑOS ===
@@ -303,19 +303,19 @@ const galleryData = [
     // === PATIO DE SERVICIO ===
     {
         id: 50,
-        src: "images/patio-servicio-1.jpg",
+        src: "images/patio-servicio-1.webp",
         title: "Patio de Servicio con Boiler",
         category: "interior"
     },
     {
         id: 51,
-        src: "images/patio-servicio-2.jpg",
+        src: "images/patio-servicio-2.webp",
         title: "Lavadero y Boiler de Paso",
         category: "interior"
     },
     {
         id: 52,
-        src: "images/patio-servicio-3.jpg",
+        src: "images/patio-servicio-3.webp",
         title: "Patio de Servicio - Vista Abierta",
         category: "interior"
     },
@@ -323,7 +323,7 @@ const galleryData = [
   {
   id: 53,
   src: "images/videocasa2.mp4",          // video real
-  poster: "images/vistaprevia.jpg",     // imagen de vista previa
+  poster: "images/vistaprevia.webp",     // imagen de vista previa
   title: "Recorrido de la Propiedad",
   category: "video",
   isVideo: true

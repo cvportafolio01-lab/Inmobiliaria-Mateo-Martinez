@@ -10,14 +10,14 @@
     --color-secondary: #F5D76E;
     --color-cream: #FDF6E3;
     --color-dark: #2C3E50;
-    --color-gray: #5A6C7D;
+    --color-gray: #0f0d0f;
     --color-light: #F8F9FA;
     --color-white: #FFFFFF;
     --color-success: #25D366;
     
-    --shadow-sm: 0 2px 8px rgba(0,0,0,0.06);
-    --shadow-md: 0 4px 20px rgba(0,0,0,0.1);
-    --shadow-lg: 0 8px 40px rgba(0,0,0,0.15);
+    --shadow-sm: 0 2px 10px rgba(0,0,0,0.06);
+    --shadow-md: 0 4px 30px rgba(0,0,0,0.1);
+    --shadow-lg: 0 8px 80px rgba(0,0,0,0.15);
     
     --radius-sm: 8px;
     --radius-md: 12px;
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', serif;
     font-weight: 600;
     line-height: 1.2;
-    color: var(--color-dark);
+    color: #2b0f57dc;
 }
 
 /* ========================================
@@ -75,12 +75,12 @@ h1, h2, h3, h4, h5, h6 {
 .brand-text {
     font-family: 'Playfair Display', serif;
     font-weight: 600;
-    font-size: 1.25rem;
-    color: var(--color-dark);
+    font-size: 8.rem;
+    color: #27e9c8;
 }
 
 .navbar-custom .nav-link {
-    color: var(--color-dark);
+    color: #4df0bf;
     font-weight: 500;
     padding: 0.5rem 1rem;
     transition: color var(--transition);
@@ -122,8 +122,9 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%);
+    background: linear-gradient(135deg, rgba(0,0,0,0.6rem) 0%, rgba(0,0,0,0.3) 100%);
 }
+
 
 .hero-content {
     position: relative;
@@ -144,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .hero-title {
@@ -152,7 +153,21 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     margin-bottom: 1rem;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.45);
+    color: #ffff;
+    padding: 0.5rem 1.2rem;
+    border-radius: 8px;
+    backdrop-filter: blur(4px);
 }
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2.2rem;
+        padding: 0.4rem 1rem;
+    }
+}
+
 
 .hero-subtitle {
     font-size: 1.5rem;
