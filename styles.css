@@ -1390,11 +1390,11 @@ h1, h2, h3, h4, h5, h6 {
 /* HERO mobile */
 @media (max-width: 768px) {
   .hero-exterior {
-    background-image: url("images/exterior-1-mobile.webp");
+    background-image: url("images/exterior-1.webp");
   }
 
   .hero-cocina {
-    background-image: url("images/cocina-1-mobile.webp");
+    background-image: url("images/cocina-1.webp");
   }
 }
 
